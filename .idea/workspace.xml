@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf734d67-4567-4054-8406-db362d4eee64" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/excersice_practice_level1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise_practice_Challenging_1_spyGame.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise_practice_level1_2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise_practice_level1_3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise_practice_level1_4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise_practice_level1_5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise_practice_level2_1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise_practice_level2_2_PaperDoll.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise_practice_level2_3_blackjack.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise_practice_level2_4_summerOf69.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/object_oriented_programming_class.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/oop_example_2.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="exercise_practice_Challenging_1_spyGame.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercise_practice_Challenging_1_spyGame.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise_practice_Challenging_1_spyGame.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="object_oriented_programming_class.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object_oriented_programming_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oop_example_2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oop_example_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="116" lean-forward="true" selection-start-line="15" selection-start-column="116" selection-end-line="15" selection-end-column="116" />
               <folding />
             </state>
           </provider>
@@ -88,6 +100,8 @@
         <option value="$PROJECT_DIR$/exercise_practice_level2_1.py" />
         <option value="$PROJECT_DIR$/exercise_practice_level2_4_summerOf69.py" />
         <option value="$PROJECT_DIR$/exercise_practice_Challenging_1_spyGame.py" />
+        <option value="$PROJECT_DIR$/object_oriented_programming_class.py" />
+        <option value="$PROJECT_DIR$/oop_example_2.py" />
       </list>
     </option>
   </component>
@@ -112,8 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,6 +137,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercise_practice_Challenging_1_spyGame">
+  <component name="RunManager" selected="Python.oop_example_2">
     <configuration name="exercise_practice_Challenging_1_spyGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,42 +193,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exercise_practice_level2_2_PaperDoll" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_practice_level2_2_PaperDoll.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="exercise_practice_level2_3_blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_practice_level2_3_blackjack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="exercise_practice_level2_4_summerOf69" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,20 +211,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="object_oriented_programming_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearningProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_oriented_programming_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="oop_example_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearningProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop_example_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.exercise_practice_level2_1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exercise_practice_level2_2_PaperDoll" />
-      <item index="2" class="java.lang.String" itemvalue="Python.exercise_practice_level2_3_blackjack" />
-      <item index="3" class="java.lang.String" itemvalue="Python.exercise_practice_level2_4_summerOf69" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exercise_practice_Challenging_1_spyGame" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exercise_practice_level2_4_summerOf69" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exercise_practice_Challenging_1_spyGame" />
+      <item index="3" class="java.lang.String" itemvalue="Python.object_oriented_programming_class" />
+      <item index="4" class="java.lang.String" itemvalue="Python.oop_example_2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.exercise_practice_Challenging_1_spyGame" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exercise_practice_level2_4_summerOf69" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exercise_practice_level2_1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.exercise_practice_level2_3_blackjack" />
-        <item index="4" class="java.lang.String" itemvalue="Python.exercise_practice_level2_2_PaperDoll" />
+        <item index="0" class="java.lang.String" itemvalue="Python.oop_example_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.object_oriented_programming_class" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exercise_practice_Challenging_1_spyGame" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exercise_practice_level2_4_summerOf69" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exercise_practice_level2_1" />
       </list>
     </recent_temporary>
   </component>
@@ -276,9 +290,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27427185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28398058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -308,25 +321,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/if_elif_Else.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="51" lean-forward="false" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/list_comprehension.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -666,7 +665,23 @@
     <entry file="file://$PROJECT_DIR$/exercise_practice_Challenging_1_spyGame.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_oriented_programming_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop_example_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="116" lean-forward="true" selection-start-line="15" selection-start-column="116" selection-end-line="15" selection-end-column="116" />
           <folding />
         </state>
       </provider>
