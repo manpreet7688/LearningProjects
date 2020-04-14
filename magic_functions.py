@@ -33,3 +33,19 @@ class test():
 test = test()
 print(test)
 del test
+print(test)
+
+# So to clear this in a class
+class test():
+    def __init__(self):
+        print("testing")
+
+    def __str__(self):
+        return "Pupose of this class to show how to delete an object/instance"
+
+    def __del__(self):
+        return "The class object has been deleted"
+
+test = test()
+print(test)
+del test
