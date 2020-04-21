@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf734d67-4567-4054-8406-db362d4eee64" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/cap_unittestExample.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/decorators.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/error_handling.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/error_handling_1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/error_handling_2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/error_handling_3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pylint.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/unittest_example.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/collections_module_counter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_exercise.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_exercise_2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_exercise_3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_exercise_4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_exercise_5.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generator_exercise_1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generator_exercise_2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generator_exercise_3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generators.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/map_filter_lambda.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/decorators.py" afterPath="$PROJECT_DIR$/decorators.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,103 +28,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="magic_functions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/magic_functions.py">
+      <file leaf-file-name="generator_exercise_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generator_exercise_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+            <state relative-caret-position="187">
+              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="oop_challenge_exercise.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oop_challenge_exercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error_handling.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/error_handling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error_handling_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/error_handling_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error_handling_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/error_handling_2.py">
+      <file leaf-file-name="generator_exercise_3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generator_exercise_3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="error_handling_3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/error_handling_3.py">
+      <file leaf-file-name="map_filter_lambda.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map_filter_lambda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generators.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function_exercise.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function_exercise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function_exercise_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function_exercise_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function_exercise_3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function_exercise_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function_exercise_4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function_exercise_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function_exercise_5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function_exercise_5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pylint.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pylint.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cap_unittestExample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap_unittestExample.py">
+      <file leaf-file-name="collections_module_counter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/collections_module_counter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unittest_example.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unittest_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decorators.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/decorators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="75" lean-forward="false" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -131,6 +133,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -141,18 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stringCon.py" />
-        <option value="$PROJECT_DIR$/code_exercise5_print_Formatting.py" />
-        <option value="$PROJECT_DIR$/code_exercise6_List.py" />
-        <option value="$PROJECT_DIR$/code_exercise7_dictionaries.py" />
-        <option value="$PROJECT_DIR$/tuples.py" />
-        <option value="$PROJECT_DIR$/code_exercise8_Sets.py" />
-        <option value="$PROJECT_DIR$/if_elif_Else.py" />
-        <option value="$PROJECT_DIR$/for_loops.py" />
-        <option value="$PROJECT_DIR$/whileLoops.py" />
-        <option value="$PROJECT_DIR$/useful_Operators_enumerator_Range_In.py" />
-        <option value="$PROJECT_DIR$/list_comprehension.py" />
-        <option value="$PROJECT_DIR$/method.py" />
         <option value="$PROJECT_DIR$/function_doc.py" />
         <option value="$PROJECT_DIR$/code_ex_11_function.py" />
         <option value="$PROJECT_DIR$/code_ex_10_function.py" />
@@ -192,10 +183,22 @@
         <option value="$PROJECT_DIR$/unittest.py" />
         <option value="$PROJECT_DIR$/unittest_example.py" />
         <option value="$PROJECT_DIR$/decorators.py" />
+        <option value="$PROJECT_DIR$/generators.py" />
+        <option value="$PROJECT_DIR$/generator_exercise_1.py" />
+        <option value="$PROJECT_DIR$/generator_exercise_2.py" />
+        <option value="$PROJECT_DIR$/generator_exercise_3.py" />
+        <option value="$PROJECT_DIR$/map_filter_lambda.py" />
+        <option value="$PROJECT_DIR$/function_exercise.py" />
+        <option value="$PROJECT_DIR$/function_exercise_2.py" />
+        <option value="$PROJECT_DIR$/function_exercise_3.py" />
+        <option value="$PROJECT_DIR$/function_exercise_4.py" />
+        <option value="$PROJECT_DIR$/function_exercise_5.ipynb" />
+        <option value="$PROJECT_DIR$/function_exercise_5.py" />
+        <option value="$PROJECT_DIR$/collections_module_counter.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
@@ -216,7 +219,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,6 +231,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,8 +249,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.unittest_example">
-    <configuration name="cap_unittestExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.function_exercise_5">
+    <configuration name="function_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -259,13 +262,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap_unittestExample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="error_handling_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="function_exercise_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -277,13 +280,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/error_handling_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pylint_unittesting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="function_exercise_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -295,13 +298,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="D:\git\LearningProjects\pylint.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="unittest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="function_exercise_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -313,13 +316,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="D:\git\LearningProjects\unittest_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="unittest_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="function_exercise_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -331,26 +334,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.error_handling_3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pylint_unittesting" />
-      <item index="2" class="java.lang.String" itemvalue="Python.cap_unittestExample" />
-      <item index="3" class="java.lang.String" itemvalue="Python.unittest" />
-      <item index="4" class="java.lang.String" itemvalue="Python.unittest_example" />
+      <item index="0" class="java.lang.String" itemvalue="Python.function_exercise" />
+      <item index="1" class="java.lang.String" itemvalue="Python.function_exercise_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.function_exercise_3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.function_exercise_4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.function_exercise_5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.unittest_example" />
-        <item index="1" class="java.lang.String" itemvalue="Python.unittest" />
-        <item index="2" class="java.lang.String" itemvalue="Python.cap_unittestExample" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pylint_unittesting" />
-        <item index="4" class="java.lang.String" itemvalue="Python.error_handling_3" />
+        <item index="0" class="java.lang.String" itemvalue="Python.function_exercise_5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.function_exercise_4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.function_exercise_3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.function_exercise_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.function_exercise" />
       </list>
     </recent_temporary>
   </component>
@@ -379,17 +382,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2985437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30825242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -417,83 +420,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloWorld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stringCon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_exercise5_print_Formatting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_exercise6_List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="16" lean-forward="false" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_exercise7_dictionaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_exercise8_Sets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/if_elif_Else.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="51" lean-forward="false" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/whileLoops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/useful_Operators_enumerator_Range_In.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
@@ -666,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="116" lean-forward="false" selection-start-line="15" selection-start-column="116" selection-end-line="15" selection-end-column="116" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -690,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -698,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="124" lean-forward="false" selection-start-line="6" selection-start-column="124" selection-end-line="6" selection-end-column="124" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,23 +634,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oop_challenge_exercise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
+        <state relative-caret-position="765">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/error_handling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -738,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,23 +662,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/error_handling_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pylint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -770,24 +683,112 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unittest_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/decorators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="75" lean-forward="false" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+        <state relative-caret-position="229">
+          <caret line="62" column="25" lean-forward="false" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator_exercise_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator_exercise_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator_exercise_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map_filter_lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_exercise_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_exercise_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_exercise_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_exercise_5.py">
+      <provider editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections_module_counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
