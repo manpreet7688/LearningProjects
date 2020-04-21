@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf734d67-4567-4054-8406-db362d4eee64" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/collections_module_counter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_exercise.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_exercise_2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_exercise_3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_exercise_4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_exercise_5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/generator_exercise_1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/generator_exercise_2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/generator_exercise_3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/generators.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/map_filter_lambda.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/collections_module_defaultdict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/collections_module_namedtuple.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/collections_module_orderedDict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datetime_module.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/python_debugger_module_pdb.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/regular expression -re.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/time_your_code - timeit.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/decorators.py" afterPath="$PROJECT_DIR$/decorators.py" />
+      <change beforePath="$PROJECT_DIR$/collections_module_counter.py" afterPath="$PROJECT_DIR$/collections_module_counter.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,86 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="generator_exercise_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generator_exercise_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generator_exercise_3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generator_exercise_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map_filter_lambda.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/map_filter_lambda.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generators.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function_exercise.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function_exercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function_exercise_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function_exercise_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function_exercise_3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function_exercise_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function_exercise_4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function_exercise_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="function_exercise_5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/function_exercise_5.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,11 +34,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="collections_module_counter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="collections_module_counter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collections_module_counter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="280">
+              <caret line="22" column="54" lean-forward="false" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collections_module_defaultdict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collections_module_defaultdict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collections_module_orderedDict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collections_module_orderedDict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collections_module_namedtuple.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collections_module_namedtuple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datetime_module.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datetime_module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="python_debugger_module_pdb.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_debugger_module_pdb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time_your_code - timeit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/time_your_code - timeit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regular expression -re.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/regular expression -re.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collections.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/collections.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-256">
+              <caret line="467" column="8" lean-forward="false" selection-start-line="467" selection-start-column="8" selection-end-line="467" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -144,13 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/function_doc.py" />
-        <option value="$PROJECT_DIR$/code_ex_11_function.py" />
-        <option value="$PROJECT_DIR$/code_ex_10_function.py" />
-        <option value="$PROJECT_DIR$/code_ex_12_function_simpleBoolean.py" />
-        <option value="$PROJECT_DIR$/code_ex_13_function.py" />
-        <option value="$PROJECT_DIR$/code_ex_14_function_math.py" />
-        <option value="$PROJECT_DIR$/code_ex_15_function_isEven.py" />
         <option value="$PROJECT_DIR$/code_ex_16_function_isGreater.py" />
         <option value="$PROJECT_DIR$/args_in_python.py" />
         <option value="$PROJECT_DIR$/kwargs.py" />
@@ -195,6 +184,13 @@
         <option value="$PROJECT_DIR$/function_exercise_5.ipynb" />
         <option value="$PROJECT_DIR$/function_exercise_5.py" />
         <option value="$PROJECT_DIR$/collections_module_counter.py" />
+        <option value="$PROJECT_DIR$/collections_module_defaultdict.py" />
+        <option value="$PROJECT_DIR$/collections_module_orderedDict.py" />
+        <option value="$PROJECT_DIR$/collections_module_namedtuple.py" />
+        <option value="$PROJECT_DIR$/datetime_module.py" />
+        <option value="$PROJECT_DIR$/python_debugger_module_pdb.py" />
+        <option value="$PROJECT_DIR$/time_your_code - timeit.py" />
+        <option value="$PROJECT_DIR$/regular expression -re.py" />
       </list>
     </option>
   </component>
@@ -249,8 +245,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.function_exercise_5">
-    <configuration name="function_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.regular expression -re">
+    <configuration name="collections_module_namedtuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -262,13 +258,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collections_module_namedtuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="function_exercise_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="datetime_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -280,13 +276,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datetime_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="function_exercise_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="python_debugger_module_pdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -298,13 +294,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_debugger_module_pdb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="function_exercise_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="regular expression -re" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -316,13 +312,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular expression -re.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="function_exercise_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="time_your_code - timeit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -334,26 +330,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearningProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_exercise_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_your_code - timeit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.function_exercise" />
-      <item index="1" class="java.lang.String" itemvalue="Python.function_exercise_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.function_exercise_3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.function_exercise_4" />
-      <item index="4" class="java.lang.String" itemvalue="Python.function_exercise_5" />
+      <item index="0" class="java.lang.String" itemvalue="Python.collections_module_namedtuple" />
+      <item index="1" class="java.lang.String" itemvalue="Python.datetime_module" />
+      <item index="2" class="java.lang.String" itemvalue="Python.python_debugger_module_pdb" />
+      <item index="3" class="java.lang.String" itemvalue="Python.time_your_code - timeit" />
+      <item index="4" class="java.lang.String" itemvalue="Python.regular expression -re" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.function_exercise_5" />
-        <item index="1" class="java.lang.String" itemvalue="Python.function_exercise_4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.function_exercise_3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.function_exercise_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.function_exercise" />
+        <item index="0" class="java.lang.String" itemvalue="Python.regular expression -re" />
+        <item index="1" class="java.lang.String" itemvalue="Python.time_your_code - timeit" />
+        <item index="2" class="java.lang.String" itemvalue="Python.python_debugger_module_pdb" />
+        <item index="3" class="java.lang.String" itemvalue="Python.datetime_module" />
+        <item index="4" class="java.lang.String" itemvalue="Python.collections_module_namedtuple" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +379,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30825242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -420,62 +415,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/useful_Operators_enumerator_Range_In.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function_doc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_ex_11_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_ex_10_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_ex_12_function_simpleBoolean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_ex_13_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code_ex_14_function_math.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -785,10 +724,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Python27/Lib/collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-256">
+          <caret line="467" column="8" lean-forward="false" selection-start-line="467" selection-start-column="8" selection-end-line="467" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/collections_module_counter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="280">
+          <caret line="22" column="54" lean-forward="false" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections_module_defaultdict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections_module_orderedDict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collections_module_namedtuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datetime_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_debugger_module_pdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_your_code - timeit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regular expression -re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
           <folding />
         </state>
       </provider>
